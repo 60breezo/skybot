@@ -1,0 +1,18 @@
+{
+  "lifetime_pnl": -34.90603589743593,
+  "total_trades": 161,
+  "total_wins": 147,
+  "longest_win_streak": 111,
+  "current_streak_count": 9,
+  "current_streak_type": "loss",
+  "best_day": {
+    "date": "2026-09-21",
+    "pnl": 13.051666666666664
+  },
+  "worst_day": {
+    "date": "2026-09-19",
+    "pnl": -43.3
+  },
+  "today_date": "2026-09-29",
+  "today_pnl": -7.75
+}

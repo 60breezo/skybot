@@ -1,0 +1,854 @@
+[
+  {
+    "ticker": "KXBTC15M-26SEP191745-45",
+    "amount": 0.3,
+    "reason": "Sold",
+    "timestamp": "2026-09-19T16:44:06.773732"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP192215-15",
+    "amount": 0.36,
+    "reason": "Sold",
+    "timestamp": "2026-09-19T21:14:53.123842"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP192315-15",
+    "amount": -7.14,
+    "reason": "Sold",
+    "timestamp": "2026-09-19T22:14:26.794645"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP200000-00",
+    "amount": 0.09,
+    "reason": "Sold",
+    "timestamp": "2026-09-19T22:58:16.886159"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP200245-45",
+    "amount": 0.09,
+    "reason": "Sold",
+    "timestamp": "2026-09-20T01:43:15.074630"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP200330-30",
+    "amount": 0.09,
+    "reason": "Sold",
+    "timestamp": "2026-09-20T02:29:08.359975"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP200345-45",
+    "amount": 0.09,
+    "reason": "Sold",
+    "timestamp": "2026-09-20T02:44:14.072370"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP200430-30",
+    "amount": 0.08,
+    "reason": "Sold",
+    "timestamp": "2026-09-20T03:28:29.324257"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP200445-45",
+    "amount": 0.12,
+    "reason": "Sold",
+    "timestamp": "2026-09-20T03:43:19.291332"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP200500-00",
+    "amount": 0.12,
+    "reason": "Sold",
+    "timestamp": "2026-09-20T03:59:52.773598"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP200515-15",
+    "amount": 0.0006,
+    "reason": "Sold",
+    "timestamp": "2026-09-20T04:14:47.310834"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP200515-15",
+    "amount": 0.11939999999999999,
+    "reason": "Sold",
+    "timestamp": "2026-09-20T04:14:48.697817"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP201230-30",
+    "amount": 0.12,
+    "reason": "Sold",
+    "timestamp": "2026-09-20T11:29:03.207866"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP201300-00",
+    "amount": 0.12,
+    "reason": "Sold",
+    "timestamp": "2026-09-20T11:58:21.640928"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP201330-30",
+    "amount": 0.1,
+    "reason": "Sold",
+    "timestamp": "2026-09-20T12:29:30.827739"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP201445-45",
+    "amount": 0.1,
+    "reason": "Sold",
+    "timestamp": "2026-09-20T13:43:46.633244"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP201500-00",
+    "amount": 0.1,
+    "reason": "Sold",
+    "timestamp": "2026-09-20T13:57:52.014114"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP201515-15",
+    "amount": 0.1,
+    "reason": "Sold",
+    "timestamp": "2026-09-20T14:13:05.378293"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP201530-30",
+    "amount": 0.0012,
+    "reason": "Sold",
+    "timestamp": "2026-09-20T14:29:32.150808"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP201530-30",
+    "amount": 0.11879999999999999,
+    "reason": "Sold",
+    "timestamp": "2026-09-20T14:29:34.744809"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP201600-00",
+    "amount": 0.1,
+    "reason": "Sold",
+    "timestamp": "2026-09-20T14:58:29.891110"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP201615-15",
+    "amount": 0.12,
+    "reason": "Sold",
+    "timestamp": "2026-09-20T15:14:30.609177"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP201700-00",
+    "amount": 0.12,
+    "reason": "Sold",
+    "timestamp": "2026-09-20T15:58:51.784072"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP201730-30",
+    "amount": 0.12,
+    "reason": "Sold",
+    "timestamp": "2026-09-20T16:27:56.324634"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP201745-45",
+    "amount": 0.12,
+    "reason": "Sold",
+    "timestamp": "2026-09-20T16:43:54.962511"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP201830-30",
+    "amount": 0.12,
+    "reason": "Sold",
+    "timestamp": "2026-09-20T17:28:09.514819"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP201900-00",
+    "amount": 0.12,
+    "reason": "Sold",
+    "timestamp": "2026-09-20T17:59:03.246470"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP201915-15",
+    "amount": 0.12,
+    "reason": "Sold",
+    "timestamp": "2026-09-20T18:14:29.709622"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP201945-45",
+    "amount": 0.12,
+    "reason": "Sold",
+    "timestamp": "2026-09-20T18:43:32.809083"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP202000-00",
+    "amount": 0.12,
+    "reason": "Sold",
+    "timestamp": "2026-09-20T18:58:20.661736"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP202030-30",
+    "amount": 0.12,
+    "reason": "Sold",
+    "timestamp": "2026-09-20T19:28:45.770471"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP202045-45",
+    "amount": 0.14,
+    "reason": "Sold",
+    "timestamp": "2026-09-20T19:42:47.220713"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP202115-15",
+    "amount": 0.14,
+    "reason": "Sold",
+    "timestamp": "2026-09-20T20:13:00.558706"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP202130-30",
+    "amount": 0.21,
+    "reason": "Sold",
+    "timestamp": "2026-09-20T20:28:12.927614"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP202145-45",
+    "amount": 0.14,
+    "reason": "Sold",
+    "timestamp": "2026-09-20T20:43:25.226724"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP202300-00",
+    "amount": 0.14,
+    "reason": "Sold",
+    "timestamp": "2026-09-20T21:59:08.597894"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP202315-15",
+    "amount": 0.16,
+    "reason": "Sold",
+    "timestamp": "2026-09-20T22:13:50.100928"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP202345-45",
+    "amount": 0.16,
+    "reason": "Sold",
+    "timestamp": "2026-09-20T22:43:12.911184"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP210000-00",
+    "amount": 0.16,
+    "reason": "Sold",
+    "timestamp": "2026-09-20T22:59:34.821130"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP210030-30",
+    "amount": 0.16,
+    "reason": "Sold",
+    "timestamp": "2026-09-20T23:29:34.716191"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP210045-45",
+    "amount": 0.16,
+    "reason": "Sold",
+    "timestamp": "2026-09-20T23:42:53.589091"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP210100-00",
+    "amount": 0.20999999999999958,
+    "reason": "Sold",
+    "timestamp": "2026-09-20T23:59:30.287117"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP210115-15",
+    "amount": 0.16,
+    "reason": "Sold",
+    "timestamp": "2026-09-21T00:13:51.661010"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP210145-45",
+    "amount": 0.11666666666666643,
+    "reason": "Sold",
+    "timestamp": "2026-09-21T00:44:26.713860"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP210345-45",
+    "amount": 0.18,
+    "reason": "Sold",
+    "timestamp": "2026-09-21T02:42:57.687181"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP210545-45",
+    "amount": 0.3,
+    "reason": "Sold",
+    "timestamp": "2026-09-21T04:42:09.429011"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP210600-00",
+    "amount": 0.2,
+    "reason": "Sold",
+    "timestamp": "2026-09-21T04:56:37.323535"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP210615-15",
+    "amount": 0.20999999999999958,
+    "reason": "Sold",
+    "timestamp": "2026-09-21T05:14:23.573569"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP210630-30",
+    "amount": 0.09333333333333314,
+    "reason": "Sold",
+    "timestamp": "2026-09-21T05:28:56.488340"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP210645-45",
+    "amount": 0.12,
+    "reason": "Sold",
+    "timestamp": "2026-09-21T05:44:38.620155"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP210700-00",
+    "amount": 0.2,
+    "reason": "Sold",
+    "timestamp": "2026-09-21T05:57:49.887863"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP210730-30",
+    "amount": 0.2,
+    "reason": "Sold",
+    "timestamp": "2026-09-21T06:28:47.847949"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP210800-00",
+    "amount": 0.2,
+    "reason": "Sold",
+    "timestamp": "2026-09-21T06:58:19.596196"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP210845-45",
+    "amount": 0.20999999999999958,
+    "reason": "Sold",
+    "timestamp": "2026-09-21T07:44:02.370791"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP210900-00",
+    "amount": 0.2,
+    "reason": "Sold",
+    "timestamp": "2026-09-21T07:57:45.063963"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP210915-15",
+    "amount": 0.2,
+    "reason": "Sold",
+    "timestamp": "2026-09-21T08:12:46.322549"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP210930-30",
+    "amount": 0.2,
+    "reason": "Sold",
+    "timestamp": "2026-09-21T08:27:25.159460"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP210945-45",
+    "amount": 0.2,
+    "reason": "Sold",
+    "timestamp": "2026-09-21T08:43:45.185813"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP211015-15",
+    "amount": 0.2,
+    "reason": "Sold",
+    "timestamp": "2026-09-21T09:13:18.528622"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP211100-00",
+    "amount": 0.2,
+    "reason": "Sold",
+    "timestamp": "2026-09-21T09:59:17.153238"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP211145-45",
+    "amount": 0.11666666666666643,
+    "reason": "Sold",
+    "timestamp": "2026-09-21T10:43:24.576034"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP211200-00",
+    "amount": 0.20999999999999958,
+    "reason": "Sold",
+    "timestamp": "2026-09-21T10:58:42.745877"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP211230-30",
+    "amount": 0.2,
+    "reason": "Sold",
+    "timestamp": "2026-09-21T11:27:21.701294"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP211245-45",
+    "amount": 0.3,
+    "reason": "Sold",
+    "timestamp": "2026-09-21T11:44:49.755343"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP211330-30",
+    "amount": 0.28,
+    "reason": "Sold",
+    "timestamp": "2026-09-21T12:28:30.138663"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP211400-00",
+    "amount": 0.28,
+    "reason": "Sold",
+    "timestamp": "2026-09-21T12:59:11.126217"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP211430-30",
+    "amount": 0.3,
+    "reason": "Sold",
+    "timestamp": "2026-09-21T13:28:39.696268"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP211445-45",
+    "amount": 0.3,
+    "reason": "Sold",
+    "timestamp": "2026-09-21T13:43:45.950861"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP211500-00",
+    "amount": 0.3,
+    "reason": "Sold",
+    "timestamp": "2026-09-21T13:58:18.561611"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP211515-15",
+    "amount": 0.3,
+    "reason": "Sold",
+    "timestamp": "2026-09-21T14:14:42.823175"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP211545-45",
+    "amount": 0.3,
+    "reason": "Sold",
+    "timestamp": "2026-09-21T14:42:34.164712"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP211600-00",
+    "amount": 0.3,
+    "reason": "Sold",
+    "timestamp": "2026-09-21T14:59:03.891598"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP211700-00",
+    "amount": 0.3,
+    "reason": "Sold",
+    "timestamp": "2026-09-21T15:58:01.620900"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP211730-30",
+    "amount": 0.3,
+    "reason": "Sold",
+    "timestamp": "2026-09-21T16:29:04.878135"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP211815-15",
+    "amount": 0.08039999999999999,
+    "reason": "Sold",
+    "timestamp": "2026-09-21T17:14:19.593381"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP211815-15",
+    "amount": 0.2196000000000009,
+    "reason": "Sold",
+    "timestamp": "2026-09-21T17:14:26.841050"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP211830-30",
+    "amount": 0.3,
+    "reason": "Sold",
+    "timestamp": "2026-09-21T17:27:44.074896"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP211845-45",
+    "amount": 0.3,
+    "reason": "Sold",
+    "timestamp": "2026-09-21T17:44:25.942786"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP211900-00",
+    "amount": 0.3,
+    "reason": "Sold",
+    "timestamp": "2026-09-21T17:59:35.971999"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP211945-45",
+    "amount": 0.225,
+    "reason": "Sold",
+    "timestamp": "2026-09-21T18:44:32.303462"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP212000-00",
+    "amount": 0.3,
+    "reason": "Sold",
+    "timestamp": "2026-09-21T18:57:31.883720"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP212015-15",
+    "amount": 0.2,
+    "reason": "Sold",
+    "timestamp": "2026-09-21T19:13:14.411173"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP212030-30",
+    "amount": 0.3,
+    "reason": "Sold",
+    "timestamp": "2026-09-21T19:29:10.525194"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP212045-45",
+    "amount": 0.3,
+    "reason": "Sold",
+    "timestamp": "2026-09-21T19:42:51.263350"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP212115-15",
+    "amount": 0.3,
+    "reason": "Sold",
+    "timestamp": "2026-09-21T20:13:39.218279"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP212130-30",
+    "amount": 0.3,
+    "reason": "Sold",
+    "timestamp": "2026-09-21T20:28:33.851811"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP212145-45",
+    "amount": 0.35,
+    "reason": "Sold",
+    "timestamp": "2026-09-21T20:44:00.064409"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP212200-00",
+    "amount": 0.3,
+    "reason": "Sold",
+    "timestamp": "2026-09-21T20:58:29.502475"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP212230-30",
+    "amount": 0.2,
+    "reason": "Sold",
+    "timestamp": "2026-09-21T21:28:04.184402"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP212245-45",
+    "amount": 0.2,
+    "reason": "Sold",
+    "timestamp": "2026-09-21T21:43:18.620303"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP212300-00",
+    "amount": 0.2,
+    "reason": "Sold",
+    "timestamp": "2026-09-21T21:59:08.031558"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP212330-30",
+    "amount": 0.2,
+    "reason": "Sold",
+    "timestamp": "2026-09-21T22:28:33.469686"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP212345-45",
+    "amount": 0.2,
+    "reason": "Sold",
+    "timestamp": "2026-09-21T22:43:04.915891"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP220000-00",
+    "amount": 0.2,
+    "reason": "Sold",
+    "timestamp": "2026-09-21T22:57:57.198379"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP220015-15",
+    "amount": 0.2,
+    "reason": "Sold",
+    "timestamp": "2026-09-21T23:14:35.027775"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP220045-45",
+    "amount": 0.3499999999999993,
+    "reason": "Sold",
+    "timestamp": "2026-09-21T23:44:20.426986"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP220100-00",
+    "amount": 0.3499999999999993,
+    "reason": "Sold",
+    "timestamp": "2026-09-21T23:58:35.151296"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP220115-15",
+    "amount": 0.2,
+    "reason": "Sold",
+    "timestamp": "2026-09-22T00:13:53.073751"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP220130-30",
+    "amount": 0.2,
+    "reason": "Sold",
+    "timestamp": "2026-09-22T00:27:53.599482"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP220145-45",
+    "amount": 0.2,
+    "reason": "Sold",
+    "timestamp": "2026-09-22T00:43:03.713845"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP220200-00",
+    "amount": 0.2,
+    "reason": "Sold",
+    "timestamp": "2026-09-22T00:57:37.949335"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP220215-15",
+    "amount": 0.2,
+    "reason": "Sold",
+    "timestamp": "2026-09-22T01:13:08.844894"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP220245-45",
+    "amount": 0.2,
+    "reason": "Sold",
+    "timestamp": "2026-09-22T01:41:49.410650"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP220300-00",
+    "amount": 0.2,
+    "reason": "Sold",
+    "timestamp": "2026-09-22T01:58:04.378050"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP220315-15",
+    "amount": 0.3,
+    "reason": "Sold",
+    "timestamp": "2026-09-22T02:14:08.668311"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP220345-45",
+    "amount": 0.4,
+    "reason": "Sold",
+    "timestamp": "2026-09-22T02:44:13.676193"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP220400-00",
+    "amount": 0.08333333333333356,
+    "reason": "Sold",
+    "timestamp": "2026-09-22T02:59:05.830119"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP220430-30",
+    "amount": 0.2,
+    "reason": "Sold",
+    "timestamp": "2026-09-22T03:28:25.315912"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP220500-00",
+    "amount": 0.2,
+    "reason": "Sold",
+    "timestamp": "2026-09-22T03:58:01.415467"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP220530-30",
+    "amount": 0.2,
+    "reason": "Sold",
+    "timestamp": "2026-09-22T04:28:24.339108"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP220545-45",
+    "amount": 0.2,
+    "reason": "Sold",
+    "timestamp": "2026-09-22T04:43:11.269125"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP220630-30",
+    "amount": 0.2,
+    "reason": "Sold",
+    "timestamp": "2026-09-22T05:27:47.829911"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP220700-00",
+    "amount": 0.2,
+    "reason": "Sold",
+    "timestamp": "2026-09-22T05:57:02.599932"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP220715-15",
+    "amount": 0.28,
+    "reason": "Sold",
+    "timestamp": "2026-09-22T06:14:16.305543"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP221045-45",
+    "amount": -4.32,
+    "reason": "Sold",
+    "timestamp": "2026-09-22T09:42:20.713502"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP221230-30",
+    "amount": 0.16,
+    "reason": "Sold",
+    "timestamp": "2026-09-22T11:29:13.102072"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP221345-45",
+    "amount": 0.12,
+    "reason": "Sold",
+    "timestamp": "2026-09-22T12:43:57.320141"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP221415-15",
+    "amount": 0.12,
+    "reason": "Sold",
+    "timestamp": "2026-09-22T13:14:36.797297"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP222100-00",
+    "amount": 0.2,
+    "reason": "Sold",
+    "timestamp": "2026-09-22T19:59:35.851595"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP222130-30",
+    "amount": 0.2,
+    "reason": "Sold",
+    "timestamp": "2026-09-22T20:28:31.866091"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP222200-00",
+    "amount": 0.3,
+    "reason": "Sold",
+    "timestamp": "2026-09-22T20:59:33.803099"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP222215-15",
+    "amount": 0.13333333333333286,
+    "reason": "Sold",
+    "timestamp": "2026-09-22T21:14:35.656536"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP222300-00",
+    "amount": 0.2,
+    "reason": "Sold",
+    "timestamp": "2026-09-22T21:59:07.648372"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP222315-15",
+    "amount": 0.2,
+    "reason": "Sold",
+    "timestamp": "2026-09-22T22:14:25.166333"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP222330-30",
+    "amount": 0.2,
+    "reason": "Sold",
+    "timestamp": "2026-09-22T22:28:20.602954"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP230045-45",
+    "amount": 0.3499999999999993,
+    "reason": "Sold",
+    "timestamp": "2026-09-22T23:43:41.088559"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP230100-00",
+    "amount": 0.3499999999999993,
+    "reason": "Sold",
+    "timestamp": "2026-09-22T23:59:15.107601"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP230130-30",
+    "amount": 0.2,
+    "reason": "Sold",
+    "timestamp": "2026-09-23T00:27:59.643721"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP250600-00",
+    "amount": 0.20999999999999971,
+    "reason": "Take-profit",
+    "timestamp": "2026-09-25T04:59:02.516735"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP250615-15",
+    "amount": 0.12923076923076907,
+    "reason": "Take-profit",
+    "timestamp": "2026-09-25T05:13:11.019502"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP251030-30",
+    "amount": 0.20999999999999971,
+    "reason": "Take-profit",
+    "timestamp": "2026-09-25T09:29:00.204784"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP251045-45",
+    "amount": 0.20999999999999971,
+    "reason": "Take-profit",
+    "timestamp": "2026-09-25T09:43:52.865420"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP251515-15",
+    "amount": 0.20999999999999971,
+    "reason": "Take-profit",
+    "timestamp": "2026-09-25T14:13:26.840411"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP252245-45",
+    "amount": -4.1,
+    "reason": "Stop-loss",
+    "timestamp": "2026-09-25T21:44:51.935485"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP260600-00",
+    "amount": -0.0036,
+    "reason": "Stop-loss",
+    "timestamp": "2026-09-26T04:59:16.141120"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP272100-00",
+    "amount": -1.65,
+    "reason": "Stop-loss",
+    "timestamp": "2026-09-27T19:58:27.162362"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP280400-00",
+    "amount": -2.2,
+    "reason": "Stop-loss",
+    "timestamp": "2026-09-28T02:57:58.254822"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP282015-15",
+    "amount": -1.75,
+    "reason": "Stop-loss",
+    "timestamp": "2026-09-28T19:14:15.689592"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP282215-15",
+    "amount": -2.6,
+    "reason": "Stop-loss",
+    "timestamp": "2026-09-28T21:12:36.989042"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP290145-45",
+    "amount": -3.5,
+    "reason": "Stop-loss",
+    "timestamp": "2026-09-29T00:43:49.647737"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP290945-45",
+    "amount": -2.75,
+    "reason": "Stop-loss",
+    "timestamp": "2026-09-29T08:43:39.744713"
+  },
+  {
+    "ticker": "KXBTC15M-26SEP291000-00",
+    "amount": -1.5,
+    "reason": "Stop-loss",
+    "timestamp": "2026-09-29T08:58:29.926134"
+  }
+]

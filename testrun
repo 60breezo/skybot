@@ -1,0 +1,66 @@
+import time, base64, urllib.request, json
+from cryptography.hazmat.primitives import hashes
+from cryptography.hazmat.primitives.asymmetric import padding
+from cryptography.hazmat.primitives.serialization import load_pem_private_key
+
+KEY_ID = "61d31577-0d62-4c6d-9c34-eb37e61202a1"
+HOST = "https://external-api.kalshi.com/trade-api/v2"
+
+with open("private_key.pem", "rb") as f:
+    pk = load_pem_private_key(f.read(), password=None)
+
+def signed_request(method, endpoint, payload=None):
+    ts = str(int(time.time() * 1000))
+    path = f"/trade-api/v2{endpoint}"
+    msg = f"{ts}{method}{path}".encode("utf-8")
+    sig = base64.b64encode(
+        pk.sign(msg, padding.PSS(mgf=padding.MGF1(hashes.SHA256()), salt_length=padding.PSS.MAX_LENGTH), hashes.SHA256())
+    ).decode("utf-8")
+    headers = {
+        "KALSHI-ACCESS-KEY": KEY_ID,
+        "KALSHI-ACCESS-TIMESTAMP": ts,
+        "KALSHI-ACCESS-SIGNATURE": sig,
+        "Accept": "application/json",
+        "Content-Type": "application/json",
+    }
+    data = json.dumps(payload).encode("utf-8") if payload else None
+    req = urllib.request.Request(f"{HOST}{endpoint}", data=data, headers=headers, method=method)
+    try:
+        with urllib.request.urlopen(req) as resp:
+            return json.loads(resp.read().decode())
+    except urllib.error.HTTPError as e:
+        print("Request failed:", e.read().decode())
+        raise
+
+# 1. Find an open KXBTC15M market and see what exchange_index it's pinned to
+markets = signed_request("GET", "/markets?series_ticker=KXBTC15M&status=open")
+sample_market = markets["markets"][0]
+target_shard = sample_market.get("exchange_index")
+print(f"--> KXBTC15M market {sample_market['ticker']} lives on exchange_index: {target_shard}")
+
+# 2. Check current balance breakdown
+balance = signed_request("GET", "/portfolio/balance")
+print(f"--> Current balance breakdown: {balance['balance_breakdown']}")
+
+# 3. Find a shard with funds to pull from (skip the target shard itself)
+source_shard = None
+source_amount_cents = 0
+for entry in balance["balance_breakdown"]:
+    idx = entry["exchange_index"]
+    dollars = float(entry["balance"])
+    cents = int(round(dollars * 100))
+    if idx != target_shard and cents > 0:
+        source_shard = idx
+        source_amount_cents = cents
+        break
+
+if source_shard is None:
+    print("--> No funded shard found to transfer from. Check the breakdown above manually.")
+else:
+    print(f"--> Will transfer {source_amount_cents}c from shard {source_shard} to shard {target_shard}")
+    result = signed_request("POST", "/portfolio/intra_exchange_instance_transfer", payload={
+        "amount": source_amount_cents,
+        "source_exchange_shard": source_shard,
+        "destination_exchange_shard": target_shard
+    })
+    print("--> Transfer result:", result)
